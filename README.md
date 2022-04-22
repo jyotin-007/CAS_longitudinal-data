@@ -1,2 +1,2 @@
 # CAS_longitudinal-data
-Academic project in Actuarial Data Science
+Academic project in Actuarial Data Science where CAS dataset is used to estimate the claim amount for longitudinal data using classical models like linear mixed models and deep learning models like GRUs, LSTMs, Bi-Directional LSTMs.Classification of the injury from non-injury is also done using various machine learning models like logistic regression, SVMs, Random forest, Artificial Neural Networks.
